@@ -1,7 +1,7 @@
 # WeekendVibes
 
  The vibes app
- ![Project banner with app screenshots](https://user-images.githubusercontent.com/8056274/126907246-9fa5c3c7-6bf1-4733-b36b-7b35d2db0bf6.jpg)
+
  ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
@@ -28,6 +28,7 @@
  * Dark Mode Support
  * Used Provider to manage state
  
+  ![Project banner with app screenshots](https://user-images.githubusercontent.com/8056274/126907246-9fa5c3c7-6bf1-4733-b36b-7b35d2db0bf6.jpg)
  
 ## Installation
 
