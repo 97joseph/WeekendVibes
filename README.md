@@ -1,4 +1,6 @@
 # WeekendVibes
+![bv](https://user-images.githubusercontent.com/33089347/182948231-db5e0413-c473-43c5-b336-d493e2601f7d.PNG)
+
 
  The vibes app
  ## ✨ Requirements
